@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <form:update id="fu_enterprise_domain_SiteEgineer" modelAttribute="siteEgineer" path="/siteegineers" versionField="Version" z="YKKSj689B2HZNLL6qsvjwEvdhWU=">
+        <field:simple field="plantHireRequests" id="c_enterprise_domain_SiteEgineer_plantHireRequests" messageCode="entity_reference_not_managed" messageCodeAttribute="Plant Hire Request" z="YqVQVMD2vGuJvHtoIyEYwLrt2Bk="/>
+        <field:input field="name" id="c_enterprise_domain_SiteEgineer_name" required="true" z="CmjCPr5zs3lZF1CArFMhdYDgT9I="/>
+        <field:input field="vatNumber" id="c_enterprise_domain_SiteEgineer_vatNumber" required="true" z="/xsvj6nDrYDwMxeSqjO9wPhve0g="/>
+    </form:update>
+</div>

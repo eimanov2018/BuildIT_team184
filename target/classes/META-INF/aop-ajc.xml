@@ -1,0 +1,42 @@
+<aspectj>
+<aspects>
+<aspect name="enterprise.domain.PlantHireRequest_Roo_Jpa_ActiveRecord"/>
+<aspect name="enterprise.domain.Plant_Roo_Configurable"/>
+<aspect name="enterprise.domain.SiteEgineer_Roo_Jpa_Entity"/>
+<aspect name="enterprise.domain.Plant_Roo_Jpa_Entity"/>
+<aspect name="enterprise.domain.PlantHireRequestSEngineer_Roo_ToString"/>
+<aspect name="enterprise.domain.SiteEgineer_Roo_DbManaged"/>
+<aspect name="enterprise.domain.PlantHireRequestPlantPK_Roo_Identifier"/>
+<aspect name="enterprise.domain.PlantHireRequestPlant_Roo_ToString"/>
+<aspect name="enterprise.domain.SiteEgineer_Roo_ToString"/>
+<aspect name="enterprise.domain.PlantHireRequestPlantPK_Roo_Serializable"/>
+<aspect name="enterprise.web.SiteEgineerController_Roo_Controller"/>
+<aspect name="enterprise.domain.PlantHireRequestPlant_Roo_Jpa_ActiveRecord"/>
+<aspect name="enterprise.domain.PlantHireRequest_Roo_DbManaged"/>
+<aspect name="enterprise.domain.SiteEgineer_Roo_Configurable"/>
+<aspect name="enterprise.web.PlantHireRequestPlantController_Roo_Controller"/>
+<aspect name="enterprise.domain.PlantHireRequestPlantPK_Roo_Json"/>
+<aspect name="enterprise.domain.Plant_Roo_DbManaged"/>
+<aspect name="enterprise.domain.PlantHireRequestSEngineer_Roo_Jpa_ActiveRecord"/>
+<aspect name="enterprise.web.PlantHireRequestController_Roo_Controller"/>
+<aspect name="enterprise.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="enterprise.domain.PlantHireRequestPlant_Roo_Jpa_Entity"/>
+<aspect name="enterprise.domain.PlantHireRequest_Roo_ToString"/>
+<aspect name="enterprise.domain.PlantHireRequestSEngineer_Roo_Configurable"/>
+<aspect name="enterprise.domain.PlantHireRequestSEngineer_Roo_Jpa_Entity"/>
+<aspect name="enterprise.domain.PlantHireRequest_Roo_Configurable"/>
+<aspect name="enterprise.web.PlantHireRequestSEngineerController_Roo_Controller"/>
+<aspect name="enterprise.domain.Plant_Roo_ToString"/>
+<aspect name="enterprise.domain.PlantHireRequestSEngineerPK_Roo_Serializable"/>
+<aspect name="enterprise.web.PlantController_Roo_Controller"/>
+<aspect name="enterprise.domain.SiteEgineer_Roo_Jpa_ActiveRecord"/>
+<aspect name="enterprise.domain.PlantHireRequestSEngineerPK_Roo_Configurable"/>
+<aspect name="enterprise.domain.PlantHireRequestPlantPK_Roo_Configurable"/>
+<aspect name="enterprise.domain.PlantHireRequestSEngineerPK_Roo_Identifier"/>
+<aspect name="enterprise.domain.PlantHireRequestPlant_Roo_Configurable"/>
+<aspect name="enterprise.domain.PlantHireRequest_Roo_Jpa_Entity"/>
+<aspect name="enterprise.domain.Plant_Roo_Jpa_ActiveRecord"/>
+<aspect name="enterprise.domain.PlantHireRequestSEngineerPK_Roo_Json"/>
+</aspects>
+</aspectj>
+
